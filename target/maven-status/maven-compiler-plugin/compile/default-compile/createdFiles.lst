@@ -1,1 +1,3 @@
+br\com\carsolft\dao\CarDao.class
 br\com\carsolft\CreateCarServlet.class
+br\com\carsolft\model\Car.class
